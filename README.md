@@ -1,4 +1,3 @@
-# testesigha
 
 ## Project setup
 ```
